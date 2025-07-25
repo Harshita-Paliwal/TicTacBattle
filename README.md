@@ -1,13 +1,6 @@
  🎮 TicTacToe Game in Java
 
 A simple 2-player Tic Tac Toe game built in Java.
-
-
- 💻 Features
- Console-based UI
- Clean and readable code
- Simple win-checking logic
-
 💻 Features
  Console-based UI
  Clean and readable code
@@ -19,7 +12,7 @@ A simple 2-player Tic Tac Toe game built in Java.
 
  🖼️ Game Screenshots
 
-![Start](TTTPreview1.png)
+![Start](TicTacBattle/TTTPreview1.png)
 ![Gameplay](TTTPreview2.png)
 ![Draw](TTTPreview3.png) 
 ![Exit](TTTPreview4.png)
