@@ -13,8 +13,8 @@ A simple 2-player Tic Tac Toe game built in Java.
  🖼️ Game Screenshots
 
 ![Start](https://github.com/Harshita-Paliwal/TicTacBattle/blob/fa677d3c97e9f2aca2b55e3444ad3f84aa23424b/TTTpreview1.png)
-![Gameplay](TTTPreview2.png)
-![Draw](TTTPreview3.png) 
-![Exit](TTTPreview4.png)
+![Gameplay](https://github.com/Harshita-Paliwal/TicTacBattle/blob/6c4fcb1862cf92f1fe70bd2f3bcce2a535742f84/TTTpreview2.png)
+![Draw](https://github.com/Harshita-Paliwal/TicTacBattle/blob/6c4fcb1862cf92f1fe70bd2f3bcce2a535742f84/TTTpreview3.png) 
+![Exit](https://github.com/Harshita-Paliwal/TicTacBattle/blob/6c4fcb1862cf92f1fe70bd2f3bcce2a535742f84/TTTpreview4.png)
 
 Hope you will enjoy!
