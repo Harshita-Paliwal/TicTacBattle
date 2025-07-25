@@ -19,10 +19,10 @@ A simple 2-player Tic Tac Toe game built in Java.
 
  🖼️ Game Screenshots
 
-(TTPreview1.png)
-(TTPreview2.png)
-(TTPreview3.png)
-(TTPreview4.png)
+(TTTPreview1.png)
+(TTTPreview2.png)
+(TTTPreview3.png)
+(TTTPreview4.png)
 
 
 Hope you will enjoy!
